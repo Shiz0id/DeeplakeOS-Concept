@@ -16,6 +16,8 @@ Special thanks to the Palm WebOS team and the people responsible for UniversalSe
 
 Thank you to Linus Torvalds for GIT and the Linux kernel as we know it..
 
+Special thanks to the team building LakeFS! You guys rock!
+
 ## Executive Summary
 
 DeepLake OS is a Linux distribution built around a novel filesystem that combines three ideas never before unified at the OS level:
