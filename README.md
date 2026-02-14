@@ -2,7 +2,7 @@
 ## References
 Special thanks and consideration is due to the following people who have paved this path over countless times.
 
-Thank you Nayuri of the RelFS Whitepaper, the ideas presented here fascinated me for an entire summer.
+Thank you Nayuki of the RelFS Whitepaper, the ideas presented here fascinated me for an entire summer.
 
 Special Thanks to Hilel Cooperman, Quentin Clark, Hadi Partovi, and so many more WinFS team members. Your enthusiasm for the project shines through to this day in archival blog posts and video. 
 
