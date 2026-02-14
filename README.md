@@ -1,4 +1,13 @@
 # DeepLake OS — Technical Specification & Vision Document
+## References
+Special thanks and consideration is due to the following people who have paved this path over countless times.
+Thank you Nayuri of the RelFS Whitepaper, the ideas presented here fascinated me for an entire summer.
+Special Thanks to Hilel Cooperman, Quentin Clark, Hadi Partovi, and so many more WinFS team members. Your enthusiasm for the project shines through to this day in archival blog posts and video. 
+Special thanks to the original Be engineering team and the team at Haiku for their open source implementation of BeFS
+Special thanks to the team that toiled on OFS during Cairo development. It's your road Microsoft paves over every time it tries again.
+Special thanks to the KDE team for the NEPOMUK Personal Information Manager Desktop which shows how powerful next gen software can be with the proper tech underlying it.
+Special thanks to the Palm WebOS team and the people responsible for UniversalSearchManager. Extra Special Thanks to the executives at HP who approved WebOS OSE.
+Thank you to Linus Torvalds for GIT and the Linux kernel as we know it..
 
 ## Executive Summary
 
