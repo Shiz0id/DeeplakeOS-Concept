@@ -8,7 +8,7 @@ Special Thanks to Hilel Cooperman, Quentin Clark, Hadi Partovi, and so many more
 
 Special thanks to the original Be engineering team and the team at Haiku for their open source implementation of BeFS.
 
-Special thanks to the team that toiled on OFS during Cairo development. It's your road Microsoft paves over every time it tries again.
+Special thanks to the team that toiled on OLE during Cairo development. It's your road Microsoft paves over every time it tries again.
 
 Special thanks to the KDE team for the NEPOMUK Personal Information Manager Desktop which shows how powerful next gen software can be with the proper tech underlying it.
 
