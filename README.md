@@ -12,11 +12,15 @@ Special thanks to the team that toiled on OLE during Cairo development. It's you
 
 Special thanks to the KDE team for the NEPOMUK Personal Information Manager Desktop which shows how powerful next gen software can be with the proper tech underlying it.
 
-Special thanks to the Palm WebOS team and the people responsible for UniversalSearchManager. Extra Special Thanks to the executives at HP who approved WebOS OSE.
-
 Thank you to Linus Torvalds for GIT and the Linux kernel as we know it..
 
+Special thanks to the Bup team for their take on content chunking helping me tie the whole idea together.
+
 Special thanks to the team building LakeFS! You guys rock!
+
+Special thanks to the Palm WebOS team and the people responsible for UniversalSearchManager. Extra Special Thanks to the executives at HP who approved WebOS OSE.
+
+
 
 ## Executive Summary
 
