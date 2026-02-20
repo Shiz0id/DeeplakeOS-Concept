@@ -74,6 +74,7 @@ Disk:
 
 - Content-addressed blocks in a B-tree keyed by BLAKE3 digest
 - Large objects chunked with content-defined chunking (FastCDC) for sub-file deduplication
+- FastCDC defines chunk boundaries; BLAKE3 fingerprints each resulting chunk (it is not the rolling chunker)
 - Reference counting for garbage collection
 
 ### Metadata Store
@@ -222,6 +223,7 @@ Each micro-hash stores only chunked diffs against the last, via content-defined 
 ### BLAKE3 Incremental Hashing
 
 BLAKE3 is a tree hash — incrementally updatable as chunks change. A 4KB change in a 500MB file rehashes a tiny fraction.
+FastCDC still decides where chunk boundaries are during ingestion/change detection.
 
 ### Tiered Frequency
 
